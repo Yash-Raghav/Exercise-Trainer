@@ -1,4 +1,6 @@
-A basic exercise system which provides a step-by-step guide for executing the knee-bend exercise properly.
+A rudimentary exercise system which provides a step-by-step guide for executing the knee-bend exercise properly. 
+
+The system utilises [mediapipe](https://pypi.org/project/mediapipe/) library to identify the body landmarks and overall position of body parts.
 
 Includes a start counter, timer and rep-counter
 
